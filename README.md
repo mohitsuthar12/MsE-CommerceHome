@@ -1,1 +1,1 @@
-https://github.com/mohitsuthar12/MsE-CommerceHome/
+https://mohitsuthar12.github.io/MsE-CommerceHome/
